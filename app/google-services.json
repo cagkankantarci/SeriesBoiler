@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48210446409",
+    "firebase_url": "https://seriesboilerproject.firebaseio.com",
+    "project_id": "seriesboilerproject",
+    "storage_bucket": "seriesboilerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48210446409:android:3bee8972ac4f89ea",
+        "android_client_info": {
+          "package_name": "com.example.forev.seriesboiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48210446409-m6uale5d2c9mb4ivr71e41mg8d9iu02k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forev.seriesboiler",
+            "certificate_hash": "bac915de64a56b5e5e6153cd53d3525ffc2f2cf3"
+          }
+        },
+        {
+          "client_id": "48210446409-dj94pecr8l3912dup93lbqlgk76jqvks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyFZ_Zh-Opie9bcAnz5YuPOatEYtwXAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48210446409-dj94pecr8l3912dup93lbqlgk76jqvks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

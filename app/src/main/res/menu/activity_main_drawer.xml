@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/whome"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profileicon"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exiticon"
+            android:title="Exit" />
+
+    </group>
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/nav_comedy"
+                android:icon="@drawable/comedyicon"
+                android:title="Comedy" />
+            <item
+                android:id="@+id/nav_sci"
+                android:icon="@drawable/sciicon"
+                android:title="Sci-Fi" />
+            <item
+                android:id="@+id/nav_crime"
+                android:icon="@drawable/crimeicon"
+                android:title="Crime" />
+            <item
+                android:id="@+id/nav_mystery"
+                android:icon="@drawable/mysteryicon"
+                android:title="Mystery" />
+            <item
+                android:id="@+id/nav_romance"
+                android:icon="@drawable/romanceicon"
+                android:title="Romance" />
+            <item
+                android:id="@+id/nav_drama"
+                android:icon="@drawable/dramaicon"
+                android:title="Drama" />
+            <item
+                android:id="@+id/nav_hero"
+                android:icon="@drawable/heroicon"
+                android:title="Superhero" />
+            <item
+                android:id="@+id/nav_animation"
+                android:icon="@drawable/animationicon"
+                android:title="Animation" />
+        </menu>
+    </item>
+
+</menu>

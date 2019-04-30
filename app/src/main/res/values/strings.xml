@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SeriesBoiler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="season">
+        <item>Season 1</item>
+        <item>Season 2</item>
+        <item>Season 3</item>
+        <item>Season 4</item>
+        <item>Season 5</item>
+        <item>Season 6</item>
+        <item>Season 7</item>
+        <item>Season 8</item>
+        <item>Season 9</item>
+        <item>Season 10</item>
+    </string-array>
+
+    <string-array name="episode">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+        <item>Episode 12</item>
+        <item>Episode 13</item>
+        <item>Episode 14</item>
+        <item>Episode 15</item>
+        <item>Episode 16</item>
+        <item>Episode 17</item>
+        <item>Episode 18</item>
+        <item>Episode 19</item>
+        <item>Episode 20</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
